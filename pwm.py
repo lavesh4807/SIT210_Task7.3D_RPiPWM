@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO
+import RPi.GPIO as GPIO 
 import time
 
 # Set the GPIO mode to use Broadcom SOC channel numbering
